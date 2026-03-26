@@ -12,6 +12,8 @@ All the resources shown here are free to download.
 
 * [BCC INTERNAL Air Source Heat Pump Guidance for officers and installers](resources/A1_BCC_INTERNAL_Air_Source_Heat_Pump_Guidance_for_officers_and_installers.docx){:download="A1 BCC INTERNAL Air Source Heat Pump Guidance for officers and installers Update 1.docx"}
     - This document is intended as a guide to heat pump installation. It makes reference to but is not a substitution for industry standards set by bodies including MCS and the certification bodies, planning regulations and DNO procedures. It goes beyond some of the requirements of these regulations to ensure quality installations in Bristol.  
+* [Improving heat pump outcomes in social housing - a practical action guide](resources/Improving_heat_pump_outcomes_in_social_housing_-_a_practical_action_guide.docx){:download="Improving heat pump outcomes in social housing - a practical action guide.docx"}
+    - An action guide designed to help local authority social housing providers to specify, procure and manage air-to-water heat pump installations that deliver reliable, high-performance outcomes – going beyond minimum compliance with standards. 
 * [National Trust ASHP specification](resources/A2_National_Trust_ASHP_specification.pdf){:download="A2 National Trust ASHP specification.pdf"}
     - This Document describes the performance requirements for small scale Air Source Heat Pumps for the National Trust Let Estate.
 * [Broadacres ASHP specification](resources/A3_Broadacres_ASHP_specification.pdf){:download="A3 Broadacres ASHP specification.pdf"}
@@ -29,7 +31,8 @@ All the resources shown here are free to download.
 * [Heat Pump QA process map and metrics](resources/A7_Heat_Pump_QA_process_map_and_metrics.pptx){:download="A7 Heat Pump QA process map and metrics issue 1.pptx"}
     - Very high level slides showing the process to heat pump installation and the metrics by which this process can be measured.
 * [Heat Pump QA process map and metrics data log](resources/A8_Heat_Pump_QA_process_map_and_metrics_data_log.xlsx){:download="A8 Heat Pump QA process map and metrics data log issue 1 3.26.xlsx"}
-    - A table for recording the heat pump process metrics.<!-- * [Organisational heat pump strategic review outline process](resources/A11_Organisational_heat_pump_strategic_review_outline_process.docx){:download="A11 Organisational heat pump strategic review outline process.docx"}
+    - A table for recording the heat pump process metrics.
+<!-- * [Organisational heat pump strategic review outline process](resources/A11_Organisational_heat_pump_strategic_review_outline_process.docx){:download="A11 Organisational heat pump strategic review outline process.docx"}
     - A document outlining the what should be included in a heat pump strategy. -->
 * [Post audit reporting protocol](resources/A13_Post_audit_reporting_protoco_issue_1.docx){:download="A13 Post audit reporting protocol  issue 1.docx"}
     - A document describing the protocol to carry out after a heat pump audit has raised issues.
