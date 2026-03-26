@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{%- block htmltitle %}
+    <title>
+        {% if page and page.title and not page.is_homepage %}
+            {{ page.title }} – {{ config.site_name }}
+        {% elif page.is_homepage %}
+            {{ config.site_name }} – {{ config.site_description }}
+        {% else %}
+            {{ page.title }}
+        {% endif %}
+    </title>
+{%- endblock %}
+
+{%- block site_name %}
+    <a class="navbar-brand" href="{{ nav.homepage.url|url }}">
+        {% include "images/optiheat_logo_white.svg" %}
+        <small>{{ config.site_description }}</small>
+    </a>
+{%- endblock %}
+
+{% block next_prev %}
+    {# Disable #}
+{% endblock %}
+
+{% block content %}
+    {% if page.meta.full_width %}
+        <div class="col" role="main">{% include "content.html" %}</div>
+    {% else %}
+        <div class="col-md-9" role="main">{% include "content.html" %}</div>
+        {% if page.meta.show_toc %}
+            <div class="col-md-3">{% include "toc.html" %}</div>
+        {% endif %}
+    {% endif %}
+{% endblock %}
+
+{% block footer %}
+    <div class="container">
+        <hr>
+        <p>
+            <a href="https://www.bristol.ac.uk/">
+                <img src="{{ "images/UoB_logo.png"|url }}" alt="University of Bristol">
+            </a>
+	    <b> and </b>
+            <a href="https://www.bristol.gov.uk/">
+                <img src="{{ "images/BCC_logo.png"|url }}" alt="Bristol City Council">
+            </a>
+        </p>
+        <p>
+            Project timeline: November 2025 – July 2026.<br>
+            OptiHeat is funded by <a href="https://www.bristol.ac.uk/policybristol/">PolicyBristol</a>.
+        </p>
+    </div>
+{% endblock %}
