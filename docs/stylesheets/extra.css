@@ -1,0 +1,28 @@
+/* Table base styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  display: table !important; /* override MkDocs default block display */
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+/* Header shading */
+th {
+  background-color: #3d854e;
+  color: white;
+}
+
+/* Alternating row shading (zebra stripes) */
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+tr:hover {
+  background-color: #e8f0fe;
+}

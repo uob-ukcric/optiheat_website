@@ -8,6 +8,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Resources: resources.md
+  - Events: events.md
   - Manufacturers: manufacturers.md
 
 theme:
@@ -21,9 +22,15 @@ theme:
 
 extra_css:
     - css/extra.css
+    - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 markdown_extensions:
   - attr_list
+  - tables
+  - md_in_html
 
 extra:
   consent:
@@ -33,3 +40,8 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+
+plugins:
+  - redirects:
+      redirect_maps:
+        'event_feedback.md': 'https://forms.office.com/e/8UmgUqcwqm'
