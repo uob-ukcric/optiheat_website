@@ -23,5 +23,5 @@ Some events have already taken place, but don't worry, as some of these have bee
 | **Date** | **Location** | **Resources** |
 |-------------|-----------|------------------|
 | Tuesday 31 March 2026 | Stoke-on-Trent | _Recording available soon_ |
-| Tuesday, 28<sup>th</sup> April 2026 | Taunton | <a href="https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-tickets-1986545120933" class="text-muted">admission closed</a> |
-| Thursday, 30<sup>th</sup> April 2026 | Manchester |  <a href="https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-tickets-1986545120933" class="text-muted">admission closed</a> |
+| Tuesday, 28<sup>th</sup> April 2026 | Taunton | <a href="https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-las-and-social-housing-tickets-1986190691826" class="text-muted">admission closed</a> |
+| Thursday, 30<sup>th</sup> April 2026 | Manchester |  <a href="https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-las-and-social-housing-tickets-1985285952727" class="text-muted">admission closed</a> |
