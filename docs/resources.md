@@ -69,6 +69,8 @@ All the resources shown here are free to download.
     - A spreadsheet contining the results of the survery into different manufacturers heat pump remote assistance offerings. This will be added to as more manurfacturers approve content for disemination.
 
 ## General Guidance
+* [Improving heat pump outcomes in social housing: a practical action guide](resources/Improving-heat-pump-outcomes-in-social-housing-a-practical-action-guide.pdf){:download="Improving-heat-pump-outcomes-in-social-housing-a-practical-action-guide - 260401.pdf"}<span class="text-muted"> - Uploaded 11th May 2026</span>
+    - Guidance, put together by the Carbon Trust, Bristol City Council and the University of Bristol, designed to help local authority social housing providers to specify, procure and manage air-to-water heat pump installations.
 * [MCS Domestic heat pumps - a best practice guide](https://mcscertified.com/standards-tools-library/)<span class="text-muted"> - External Link</span>
     - The standards and tools library provided by the MCS.
 * [Renewable Heating Hub](https://www.youtube.com/@RenewableHeatingHub)<span class="text-muted"> - External Link</span>
