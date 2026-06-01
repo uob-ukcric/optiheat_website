@@ -14,7 +14,7 @@ Links to these resources can be found on the [Resouces](resources.md) page of th
 |-------------|-----------|------------------|
 | 12<sup>th</sup> and 13<sup>th</sup> May 2026 | Futurebuild, London | [Register on Futurebuild website](https://www.futurebuild.co.uk/) |
 | Tuesday, 9<sup>th</sup> June 2026 | East Midlands | [Register interest here](https://forms.gle/oaeLT2o8PVK8LHTh6) |
-| Wednesday, 10<sup>th</sup> June 2026 | North East / Yorkshire | [Register interest here](https://forms.gle/oaeLT2o8PVK8LHTh6) |
+| Wednesday, 10<sup>th</sup> June 2026 | North East / Yorkshire | [Details and registration via Eventbrite](https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-york-tickets-1989206268497) |
 | Monday, 13<sup>th</sup> July 2026 | South East / London | [Details and registration via Eventbrite](https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-tickets-1986545120933) |
 
 ## Past Events
