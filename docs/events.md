@@ -1,19 +1,16 @@
 # OptiHeat Workshops
 
-As part of the OptiHeat project we are running a nation wide series of workshops.
+As part of the OptiHeat project we run a nation wide series of workshops.
 
-During these workshops we will describe some of the challenges that the OptiHeat team have identified while delivering heat pumps into social housing.
+During these workshops we described some of the challenges that the OptiHeat team have identified while delivering heat pumps into social housing.
 
-We will also go through some of the practical reources that exist to support others who are going through the same process. 
+We also went through some of the practical reources that exist to support others who are going through the same process. 
 
 Links to these resources can be found on the [Resouces](resources.md) page of this side.
 
 ## Upcoming Events
 
-| **Date** | **Location** | **Booking Link** |
-|-------------|-----------|------------------|
-| Monday, 13<sup>th</sup> July 2026 | South East / London | [Details and registration via Eventbrite](https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-tickets-1986545120933) |
-| Thursday, 16<sup>th</sup> July 2026 | Online | [Details and registration via Eventbrite](https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-webinar-tickets-1990786718666?aff=oddtdtcreator&keep_tld=true) |
+**The OptiHeat workshop series has now come to an end. If further events are arranged they will appear here.**
 
 ## Past Events
 Some events have already taken place, but don't worry, as some of these have been recorded. These recordings will be available for download here soon.
@@ -26,3 +23,6 @@ Some events have already taken place, but don't worry, as some of these have bee
 | 12<sup>th</sup> and 13<sup>th</sup> May 2026 | Futurebuild, London | <a href="https://www.futurebuild.co.uk/" class="text-muted">admission closed</a> |
 | Tuesday, 9<sup>th</sup> June 2026 | East Midlands | <a class="text-muted">admission closed</a> | 
 | Wednesday, 10<sup>th</sup> June 2026 | North East / Yorkshire | <a class="text-muted">admission closed</a> |
+| Monday, 13<sup>th</sup> July 2026 | South East / London | <a href="https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-tickets-1986545120933" class="text-muted">admission closed</a> |
+| Thursday, 16<sup>th</sup> July 2026 | Online | <a href="https://www.eventbrite.co.uk/e/successful-heat-pump-installation-projects-for-social-housing-webinar-tickets-1990786718666?aff=oddtdtcreator&keep_tld=true" class="text-muted">admission closed</a> |
+| Thursday, 30<sup>th</sup> July 2026 | Newark |  <a href="https://www.eventbrite.com/e/1992501544757?aff=oddtdtcreator" class="text-muted">admission closed</a> |
