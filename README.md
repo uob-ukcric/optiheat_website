@@ -15,8 +15,8 @@ The way works is:
 4. When happy with the content of the website, you then need to run mkdocs which reads this content, builds the necesary html, and pushes this up to the repo on which the site is being hosted. That must be done from the other repo [found here](https://github.com/uob-ukcric/uob-ukcric.github.io).
 5. to be able to do this you will have to have installed MKDocs is a python library. On my machine I have created a python venv in the direction that stores both of the local website directories. I use `uv` for managing python venvs.
 6. the two libraries you need are:
-    "mkdocs-bootswatch>=1.1",
-    "mkdocs-redirects>=1.2.3",
+`mkdocs-bootswatch>=1.1`
+`mkdocs-redirects>=1.2.3`
 7. once this is installed, go into the `uob-ukcric.github.io` repo folder and run mkdocs, pointing it at the mkdocs.yml file in the other folder. The command to do this is:
 `uv run mkdocs gh-deploy --config-file ../optiheat/mkdocs.yml --remote-branch master`
 This should build the html, and push it remote server for presentation.
